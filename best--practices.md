@@ -16,4 +16,28 @@ Writing readable code is an art and following style guides is one way of ensurin
 -   Name variables, methods, and classes to reveal intent. Intent describes the function of the class, method or variable. A typical example is if we were describing a class method to sort a collection by a certain parameter. It’s preferred to define this as `obj.sort_by(param)` or `obj->sort_by(param)`. It makes code more readable and requires less documentation.
 -   Treat acronyms as words in names (`XmlHttpRequest` not `XMLHTTPRequest`), even if the acronym is the entire name (class `Html` not class `HTML`).
 -   Suffix variables holding a factory with _factory (user_factory)
+
+## Formatting
+
+-   Avoid inline comments.
+-   Avoid deep indentation. (max 3 level)
+-   Break long lines after 80 characters.
+-   Delete trailing whitespace.
+-   Don't include spaces after `(, [` or before `], ).`
+-   Don't misspell.
+-   Don't vertically align tokens on consecutive lines.
+-   Do not leave commented out code within production code.
+-   If you break up an argument list, keep the arguments on their own lines and closing parenthesis on its own line. *Example 1, Example 2.*
+-   If you break up a hash/dictionary/associative array, keep the elements on their own lines and closing curly brace on its own line.
+-   Indent continued lines two spaces.
+-   Indent private methods equal to public methods.
+-   If you break up a chain of method invocations, keep each method invocation on its own line. Place the . at the end of each line, except the last. Example.
+-   Use 2 space indentation (no tabs) or indentation specific to your stack.
+-   Use an empty line between methods or the required number of spaces specified in the respective style guide.
+-   Use empty lines around multi-line blocks.
+-   Use spaces around operators, except for unary operators, such as !.
+-   Use spaces after commas, after colons and semicolons, around `{ and before }.`
+-   Use Unix-style line endings `(\n).`
+-   Use uppercase for SQL keywords and lowercase for SQL identifiers.
+
     
