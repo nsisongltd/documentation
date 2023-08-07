@@ -50,4 +50,11 @@ Writing readable code is an art and following style guides is one way of ensurin
     
 *Note: It is helpful to run your code through a linter to easily help point you to areas where code is not conforming to style guides. Better still, plugins exist for various IDEs to help with this.*
 
+JavaScript - [Guide](https://eslint.org/docs/rules/)  
+HTML - [Guide](https://www.w3schools.com/html/html5_syntax.asp)   
+Vue - [Guide](https://eslint.vuejs.org/rules/)  
+PHP - [Guide](https://www.php-fig.org/psr/psr-2/)  
+Python - [Guide](https://www.python.org/dev/peps/pep-0008/)  
+Java - [Guide](https://google.github.io/styleguide/javaguide.html)  
+
 
