@@ -41,3 +41,13 @@ Writing readable code is an art and following style guides is one way of ensurin
 -   Use uppercase for SQL keywords and lowercase for SQL identifiers.
 
     
+## Code Organization
+
+-   Ensure to always take advantage of inbuilt language functionality like packages, modules etc. to organise the different parts of your code.
+-   Order methods so that caller methods are earlier in the file than the methods they call.
+-   Order methods so that methods are as close as possible to other methods they call.
+-   For language specific style guides, see below.
+    
+*Note: It is helpful to run your code through a linter to easily help point you to areas where code is not conforming to style guides. Better still, plugins exist for various IDEs to help with this.*
+
+
