@@ -102,3 +102,7 @@ void arch_context_switch(struct task *from, struct task *to);
 5. Are memory ordering rules clear?
 6. Are labels and jumps readable?
 7. Has the code been tested on the target architecture?
+
+---
+
+### Made with ❤️ by Nsisong Labs

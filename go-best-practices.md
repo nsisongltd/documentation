@@ -127,3 +127,7 @@ func TestNormalizeEmail(t *testing.T) {
 5. Are dependencies justified?
 6. Are tests table-driven where useful?
 7. Did `gofmt`, `go vet`, and tests pass?
+
+---
+
+### Made with ❤️ by Nsisong Labs

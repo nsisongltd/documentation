@@ -112,3 +112,7 @@ npm run test
 5. Are forms accessible?
 6. Was the production build tested?
 7. Is added configuration justified?
+
+---
+
+### Made with ❤️ by Nsisong Labs

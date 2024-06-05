@@ -109,3 +109,7 @@ cargo test
 5. Is shared mutable state protected?
 6. Are public APIs conservative?
 7. Did formatting, linting, and tests pass?
+
+---
+
+### Made with ❤️ by Nsisong Labs

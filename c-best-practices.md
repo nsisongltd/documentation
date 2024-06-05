@@ -193,3 +193,7 @@ cc -fsanitize=address,undefined
 6. Could any pointer use become invalid?
 7. Are concurrency assumptions documented?
 8. Was the code built with warnings enabled?
+
+---
+
+### Made with ❤️ by Nsisong Labs

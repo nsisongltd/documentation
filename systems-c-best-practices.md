@@ -62,3 +62,7 @@ uint32_t read_u32_le(const unsigned char *data)
 5. Are dependencies justified?
 6. Are parser paths fuzzable?
 7. Did sanitizers or equivalent checks run?
+
+---
+
+### Made with ❤️ by Nsisong Labs

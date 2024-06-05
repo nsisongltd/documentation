@@ -140,3 +140,7 @@ c++ -fsanitize=address,undefined
 6. Are templates justified?
 7. Does error handling follow one clear style?
 8. Was the code built with warnings and tests?
+
+---
+
+### Made with ❤️ by Nsisong Labs

@@ -146,3 +146,7 @@ prove -lr t
 4. Are regular expressions readable and tested?
 5. Is shell interpolation avoided?
 6. Is the script usable in automation?
+
+---
+
+### Made with ❤️ by Nsisong Labs

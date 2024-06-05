@@ -63,3 +63,7 @@ Use direct code, predictable data flow, and measurement before optimization.
 5. Are memory lifetimes clear?
 6. Are platform assumptions isolated?
 7. Was the change tested under realistic workload?
+
+---
+
+### Made with ❤️ by Nsisong Labs

@@ -158,3 +158,7 @@ pytest
 5. Are mutable defaults avoided?
 6. Are dependencies justified?
 7. Are tests included for important behavior?
+
+---
+
+### Made with ❤️ by Nsisong Labs

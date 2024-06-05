@@ -110,3 +110,7 @@ guard let userID = request.userID else {
 5. Is shared mutable state protected?
 6. Are value and reference types chosen deliberately?
 7. Are tests covering important behavior?
+
+---
+
+### Made with ❤️ by Nsisong Labs

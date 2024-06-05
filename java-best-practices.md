@@ -113,3 +113,7 @@ try {
 5. Is concurrency behavior documented?
 6. Is the code portable across supported runtimes?
 7. Are tests included for important behavior?
+
+---
+
+### Made with ❤️ by Nsisong Labs
